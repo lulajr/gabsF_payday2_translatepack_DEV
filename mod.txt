@@ -1,0 +1,21 @@
+{
+	"name" : "gabsF's Translate PT-BR Pack - Dev",
+	"description" : "This mod Translate some shit on PAYDAY 2 to Portuguese Brazilian",
+	"author" : "gabsF,
+and with help of
+CENSOR_1337
+and Kisuke.",
+	"contact" : "https://steamcommunity.com/id/_gab_foxJaketto_/",
+	"version" : "1.2-Dev",
+	"blt_version" : 2,
+	"hooks" : [
+        {
+			"hook_id" : "lib/managers/localizationmanager",
+            "script_path" : "translate.lua"
+        },
+        {
+            "hook_id" : "lib/managers/localizationmanager",
+            "script_path" : "updates.lua"
+        }
+    ]
+}
