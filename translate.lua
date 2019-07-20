@@ -385,7 +385,12 @@ Hooks:Add("LocalizationManagerPostInit", "rvdportuguese", function(loc)
 		loc_wwh_intro_03 = "Locke: Desculpa, eu vou ter que ir, mas deixei uma surpresa pra você.",
 		
 		-- Legendas (Capitão)
-		cpt_wwh_03_01 = "Capitão: Alô? Está me ouvindo? O navio precisa de diesel para poder ir até Águas Internacionais.", -- Tem certeza sobre isso, capitão?
+		cpt_wwh_01_01 = "Capitão: Caramba, pensei que nunca ia sair dessa merda. Me tira daqui, fazendo favor?",
+		cpt_wwh_01_02 = "Capitão: Que beleza, Butcher mandou ajuda. Me ajuda aqui.",
+		cpt_wwh_01_03 = "Capitão: Finalmente, porra, Butcher mandou ajuda. Me tira daqui, agora!",
+		cpt_wwh_02_02 = "Capitão: Eu irei volta pro barco e te contacta as instruções.",
+		cpt_wwh_02_03 = "Capitão: Vou te mandar as instruções quando eu estiver no barco.",
+		cpt_wwh_03_01 = "Capitão: Alô? Isso tá ligado? O navio precisa de diesel para poder ir até Águas Internacionais.", -- Tem certeza sobre isso, capitão?
 		cpt_wwh_03_02 = "Capitão: Tá me ouvindo? A gente vai precisa de mais diesel pro navio, pra nós irmos pra Águas Internacionais.",
 		cpt_wwh_03_03 = "Capitão: Ok, nós precissamos ir até Águas Internacionais, mas falta diesel.",
 		cpt_wwh_04_01 = "Capitão: Procura por uma mangueira e um tanque de diesel.",
@@ -413,10 +418,14 @@ Hooks:Add("LocalizationManagerPostInit", "rvdportuguese", function(loc)
 		cpt_wwh_11_02 = "Capitão: Beleza, tá funcionando.",
 		cpt_wwh_11_03 = "Capitão: O Diesel está enchendo o Tanque de novo.",
 		cpt_wwh_12_01 = "Capitão: O tanque tá cheio.",
+		cpt_wwh_12_02 = "Capitão: O Tanque tá cheio, muito bem.",
 		cpt_wwh_12_03 = "Capitão: Beleza, temos o suficiente.",
 		cpt_wwh_13_01 = "Capitão: Hora de dá o fora daqui! Tira as cordas no navio!",
 		cpt_wwh_13_02 = "Capitão: Será que 'cê pode tira as cordas do navio!",
 		cpt_wwh_13_03 = "Capitão: Tira logo essas cordas do navio!",
+		cpt_wwh_14_01 = "Capitão: Precisa tirar a mangueira e as coras.",
+		cpt_wwh_14_02 = "Capitão: A mangueira e as cordas ainda está ligada!",
+		cpt_wwh_14_03 = "Capitão: Todas as cordas e a mangueira precisa ser tiradas.",
 		cpt_wwh_15_01 = "Capitão: Suba a bordo, agora!",
 		cpt_wwh_15_03 = "Capitão: Todo mundo, pro navio. Vamo' dá o fora daqui!",
 		cpt_wwh_16_01 = "Capitão: Tira a ponte e proteja o navio!",
@@ -427,7 +436,9 @@ Hooks:Add("LocalizationManagerPostInit", "rvdportuguese", function(loc)
 		cpt_wwh_17_03 = "Capitão: O navio ainda tá sendo atacado pelos os policiais!",
 		cpt_wwh_18_01 = "Capitão: Tá na metade.",
 		cpt_wwh_18_03 = "Capitão: O diesel tá na metade.",
+		cpt_wwh_18_02 = "Capitão: 50 por cento completo.",
 		cpt_wwh_19_01 = "Capitão: Só mais um pouquinho.",
+		cpt_wwh_19_02 = "Capitão: Tá quase lá.",
 		cpt_wwh_19_03 = "Capitão: Quase lá...",
 		
 		-- Legendas (Locke)
