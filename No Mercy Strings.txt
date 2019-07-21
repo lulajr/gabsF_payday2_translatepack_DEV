@@ -35,7 +35,7 @@
 	Line 2162: <string id="pln_nmh_72_04">Sem bons frascos, galera.</string>
 	Line 2221: <string id="nmh_intro_02_04">Certo!</string>
 	Line 2252: <string id="pln_nmh_61_01">Se esse for a sala errada, nós vamos ter que abrir as outras portas com uma serra. Nós temos que pegar essa amostra de sangue...</string>
-	Line 2277: <string id="nmh_intro_01_02">You're breaking up... Can you hear me ok?</string>
+	Line 2277: <string id="nmh_intro_01_02">Estou perdendo sinal... Você pode me ouvir?</string>
 	Line 2299: <string id="pln_nmh_29_02">Alguém, pega o telefone e me deixe cuidar disso.</string>
 	Line 2354: <string id="pln_nmh_73_03">Tenham cuidado galera. Cair provavelmente quebrará os frascos!</string>
 	Line 2373: <string id="nmh_intro_08_02">Devagar e com calma pessoal. Isso é importante.</string>
@@ -94,7 +94,7 @@
 	Line 5914: <string id="pln_nmh_91_02">Vá para o telhado e eu irei mandar o helicóptero para pegar você!</string>
 	Line 5941: <string id="nmh_intro_08_01">A gente ta fazendo essa merda pela porra de um livro?</string>
 	Line 6015: <string id="pln_nmh_11_01">Sete.</string>
-	Line 6095: <string id="nmh_intro_05_02">You're breaking up... Can you hear me ok?</string>
+	Line 6095: <string id="nmh_intro_05_02">Estou perdendo sinal... Você pode me ouvir?</string>
 	Line 6163: <string id="nmh_intro_05_04">Certo!</string>
 	Line 6277: <string id="pln_nmh_88_01">Vocês precisam de mais sangue dentro do cooler, galera.</string>
 	Line 6281: <string id="pln_nmh_72_05">Você sabe, frascos quebram quando você cai.</string>
@@ -115,7 +115,7 @@
 	Line 6897: <string id="pln_nmh_77_01">Ótimo, agora você só aguentar até isso chegar ai.</string>
 	Line 7034: <string id="nmh_intro_01_06">Por favor, fume lá fora, você não pode fumar aqui senhor... Bando de lixo!
 </string>
-	Line 7216: <string id="nmh_intro_03_02">You're breaking up... Can you hear me ok?</string>
+	Line 7216: <string id="nmh_intro_03_02">Estou perdendo sinal... Você pode me ouvir?</string>
 	Line 7341: <string id="pln_nmh_02_01">Você terá cerca de sete segundos para destruir as câmeras antes do alarme disparar.</string>
 	Line 7385: <string id="pln_nmh_21_02">Me de acesso ao computador da recepção então lá eu olho onde os médicos estão mantendo o paciente.</string>
 	Line 7430: <string id="pln_nmh_70_02">Ache uma centrífuga..</string>
@@ -132,7 +132,7 @@
 	Line 8844: <string id="pln_nmh_59_01">O que você esta fazendo, atirando no lugar! Eles irão trancar, agora!
 </string>
 	Line 9019: <string id="nmh_intro_06_06">Lembre-se pessoal, o pagamento disso é importante.</string>
-	Line 9052: <string id="nmh_intro_08_04">Eu odeio pra caralho hospitais, mano. Eu sempre viro vegetal, vocês acabam comigo. </string>
+	Line 9052: <string id="nmh_intro_08_04">Eu odeio pra caralho hospitais, mano. Eu sempre me torno um vegetal, vocês acabam comigo. </string>
 	Line 9232: <string id="pln_nmh_111_01">Vazem dai antes que eles achem vocês!</string>
 	Line 9338: <string id="pln_nmh_55_01">Vá para o vestiário e ponha a roupa cirúrgica.</string>
 	Line 9411: <string id="pln_nmh_74_01">Você precisa de duas amostras. Vá e pegue-os.</string>
@@ -169,18 +169,18 @@
 	Line 11435: <string id="pln_nmh_35_01">Eles acreditaram. Continue agindo.</string>
 	Line 11472: <string id="pln_nmh_19_01">Galera, mantenham-se fora desse corredor.</string>
 	Line 11675: <string id="pln_nmh_18_02">Ótimo, todas as câmeras estão destruídas.</string>
-	Line 11702: <string id="nmh_intro_02_02">You're breaking up... Can you hear me ok?</string>
+	Line 11702: <string id="nmh_intro_02_02">Estou perdendo sinal... Você pode me ouvir?</string>
 	Line 11711: <string id="pln_nmh_37_01">Pessoal, tem guardas até vocês. Matem eles antes que eles possam achar algo.</string>
 	Line 11717: <string id="pln_nmh_35_02">Isso te deu um pouco de tempo.</string>
 	Line 11768: <string id="pln_nmh_80_01">Isso é estranho galera. Os radares estão piscando que nem loucos. Algo está errado... Eu acho que problemas grandes vindo. Porra, eu sabia que isso era complexo.</string>
 	Line 11779: <string id="pln_nmh_33_02">Uhuh...uhuh... Ok, claro. Nós daremos uma olhada.</string>
 	Line 11794: <string id="pln_nmh_71_03">Merda, ainda não é o suficiente. Consiga outro.</string>
-	Line 11829: <string id="pln_nmh_74_04">Get that blood, guys.</string>
+	Line 11829: <string id="pln_nmh_74_04">Consiga o sangue, galera.</string>
 	Line 11873: <string id="pln_nmh_30_03">Rápido pessoal, atendam o telefone!</string>
 	Line 11883: <string id="pln_nmh_cnc_01">Consegui um trabalho no hospital para você. Pegue sua roupa cirúrgica.</string>
 	Line 12069: <string id="pln_nmh_47_01">Eu sei que vocês não gostam disso pessoal, mas é um pagamento muito grande, e um item bônus que eu preciso ter em minhas mãos. É melhor não perguntar muito.</string>
 	Line 12247: <string id="nmh_intro_06_02">Por quê parece que eu não deveria estar aqui bem agora?</string>
-	Line 12992: <string id="nmh_intro_04_02">You're breaking up... Can you hear me ok?</string>
+	Line 12992: <string id="nmh_intro_04_02">Estou perdendo sinal... Você pode me ouvir?</string>
 	Line 13262: <string id="nmh_intro_06_05">Algo nesse golpe não está certo. Apenas... algo...</string>
 	Line 13821: <string id="nmh_intro_02_03">Sim-sim-sim... Siga o plano!</string>
 	Line 13822: <string id="nmh_intro_02_06">Você! Vá em frente!</string>
@@ -229,7 +229,7 @@
 	Line 15940: <string id="pln_nmh_33_01">Uhm... nós não resolvemos isso ainda? </string>
 	Line 15941: <string id="pln_nmh_33_03">Claro, sem problema. Nada demais acontecendo aqui.</string>
 	Line 15942: <string id="pln_nmh_33_05">Claro, o uh... monitor quebrou. Fez muito barulho. Assustou uma senhora, mas o enfermeiro cuidou dela.</string>
-	Line 15943: <string id="pln_nmh_34_01">Eu consegui. Continue trabalhando galera.</string>
+	Line 15943: <string id="pln_nmh_34_01">Eu consegui. Continuem trabalhando galera.</string>
 	Line 15944: <string id="pln_nmh_36_02">Tem que apressar isso pessoal.</string>
 	Line 15945: <string id="pln_nmh_39_01">Mantenha o elevador sobre vigilância, galera.</string>
 	Line 15946: <string id="pln_nmh_44_01">Continue procurando.</string>
