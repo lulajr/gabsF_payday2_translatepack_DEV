@@ -114,114 +114,115 @@
 	7182: <"loc_des_56_02">Ah, eles acabarão com a sua mistura. Vocês precisam fazer um novo, amigos.</string>
 	7204: <"loc_des_58_02">Rápido, bote a substância na porta.</string>
 	7258: <"loc_des_05_03">O hacking precisa ser reniciado, ok?</string>
-	7323: <"loc_des_04_02">...See if you can open the doors via electrical boxes. Should be a couple nearby on the walls.</string>
-	7346: <"loc_des_92_03">Bile is ready for you friends, get on the helicopter, yeah?</string>
-	7421: <"loc_des_13_01">C'mon gang, you gotta get to the lab, find the right shelf.</string>
-	7422: <"loc_des_76_06">They're going for the weapon!</string>
-	7429: <"loc_des_32_03">Use the conveyor in the central hub to ferry the box.</string>
-	7452: <"loc_des_30_02">Come on, take it. It's not going to open a portal to Hell. Probably.</string>
-	7673: <"loc_des_72_07">The charge process needs to be started again.</string>
-	7688: <"loc_des_intro_03d">Hey, I just thought of something. Should we maybe have brough hazmat suits?</string>
-	7693: <"loc_des_101_02">Those guns will make smelly swiss cheese out of Bile's chopper. Take them out by hacking the control boxes.</string>
-	7699: <"loc_des_55_02">Blerrie! Didn't work. You must've mixed it wrong. Wait a bit and try again, yeah?</string>
-	7797: <"loc_des_50_02">You need to move to the bio-lab.</string>
-	7810: <"loc_des_95_01">The weapons will need fresh batteries.</string>
-	7821: <"loc_des_intro_04c">Maybe they'll have aliens.</string>
-	7884: <"loc_des_17_03">The hack routine needs to be rebooted, yeah?</string>
-	7959: <"loc_des_48_01">Get back to the mainframe.</string>
-	7972: <"loc_des_26_02">Find a tool, then open the crate.</string>
-	8028: <"loc_des_cnc_01">Friends, fancy a bit of fun in the desert? There's a Murky facility that needs looting.</string>
-	8053: <"loc_des_89_01">Light a flare when you're ready to leave.</string>
-	8056: <"loc_des_79_01">Grab the artifact, make sure that the kerels don't get their hands on it.</string>
-	8063: <"loc_des_62_01">Get to the weapons lab, friends.</string>
-	8069: <"loc_des_75_01">Murky and the kerels are trying to shut down the cannon.</string>
-	8071: <"loc_des_36_02">You need to go to the archaeology room.</string>
-	8073: <"loc_des_108_02">Blerrie! Didn't work. You must have gotten something wrong. Wait a bit and try again, yeah?</string>
-	8159: <"loc_des_83_01">Take the boxes from the conveyor, friends.</string>
-	8175: <"loc_des_68_06">That cannon's not going to fire without some juice.</string>
-	8223: <"loc_des_48_02">Return to the mainframe and search, yeah?</string>
-	8268: <"loc_des_104_01">Use the crane to bring back the crate.</string>
-	8286: <"loc_des_26_03">Find anything useful nearby to use on the crate?</string>
-	8293: <"loc_des_105_05">You need to get that bypass going again.</string>
-	8345: <"loc_des_45_02">Not sure they're the same as the others.</string>
-	8356: <"loc_des_intro_02a">So what kind of shit are we going to find in this place?</string>
-	8429: <"loc_des_96_05">The cannon can't fire until you get fresh batteries.</string>
-	8451: <"loc_des_88_03">When you're ready to leave, light up a flare and Bile will come get you.</string>
-	8504: <"loc_des_23_02">The power has been cut! You have to get the juice flowing again, then restart the crane.</string>
-	8508: <"loc_des_53_02">I think that will work... not that I ever took chemistry, but you can add the next part now.</string>
-	8536: <"loc_des_35_01">Head to the archaeology wing. There should be an artifact somewhere in there.</string>
-	8580: <"loc_des_62_06">Why are you not at the weapons lab, yet?</string>
-	8588: <"loc_des_74_03">Reset the power lever, quickly!</string>
-	8621: <"loc_des_76_05">Stop anyone from getting to the cannon.</string>
-	8640: <"loc_des_13_03">You need to get to the tech lab and find the right shelf.</string>
-	8669: <"loc_des_48_03">You gotta go back and search the mainframe again.</string>
-	8676: <"loc_des_35_02">Ok, friends. Looks like they're keeping one of the boxes in the archaeology room. Get over there now, yeah?</string>
-	8692: <"loc_des_41_03">The symbols, friends. They're the key.</string>
-	8699: <"loc_des_end_01">Well done, friends. We got what we came for, but that last... we need to figure out our next move. After you left the warehouse, Murkywater comms went completely dark, off the grid. We hurt the Kataru good, but we don't know how they will retaliate, and Bain would want us to keep going, no matter what happened to him. Duke is going to have his hands full figuring out the next piece of this puzzle and what those boxes are actually good for. Until then, we lay low... plan... and survive.  </string>
-	8707: <"loc_des_50_05">Hurry now, go find the artifact in the bio-lab.</string>
-	8718: <"loc_des_74_02">You need to find the emergency power lever friends.</string>
-	8734: <"loc_des_66_04">You have to plug in those batteries.</string>
-	8767: <"loc_des_20_02">Right friends, that's the right place. Go out to the main hub and use the crane.</string>
-	8770: <"loc_des_47_03">Still have one more box to go. Go back to the mainframe and look for it, yeah?</string>
-	8790: <"loc_des_108_01">Ah, you got it wrong. Maybe bringing hazmat suits would have been a good idea. Wait until it stops reacting, then try again.</string>
-	8869: <"loc_des_intro_04b">If they have ray guns here, I'm taking some with me.</string>
-	8871: <"loc_des_39_02">You have to restart the drill!</string>
-	8909: <"loc_des_27_02">You got to unscrew all the screws, friends.</string>
-	8917: <"loc_des_44_03">The artifact... it's why we're here.</string>
-	8922: <"loc_des_29_02">Heh, it's almost exactly the same as the other. Well, it's what we came for so take it and keep going.</string>
-	8960: <"loc_des_40_01">This is like candy for Duke, yeah? But we just need what's inside. Those symbols are probably the key to opening it. Look around for clues.</string>
-	8963: <"loc_des_30_03">The box, friends.</string>
-	8986: <"loc_des_43_03">One less prize for Murky to keep. Pick it up and move on, friends.</string>
-	8998: <"loc_des_41_04">You have to open up that ark-dinges.</string>
-	8999: <"loc_des_60_06">You need to take the box.</string>
-	9066: <"loc_des_intro_05b">They got their Top. Men.</string>
-	9149: <"loc_des_11_01">OK, it looks like one of the artifacts is being stored in the warehouse archive. There's no way you'll be able to search that area on foot, but there's a retrieval system with a crane in the central hub you can use. You just gotta find the right shelf first.</string>
-	9153: <"loc_des_47_01">Ok, you have to get back to the mainframe and look for the second box.</string>
-	9227: <"loc_des_04_03">...Find the wall-boxes that control the blast doors, yeah?</string>
-	9241: <"loc_des_intro_01b">Fortune and glory, kid.</string>
-	9270: <"loc_des_01_03">Here we go, friends. This one's for Bain, yeah?</string>
-	9296: <"loc_des_32_04">Move the box to the entrance with the conveyor in the central hub, yeah?</string>
-	9316: <"loc_des_46_01">That's just... strange, eh?</string>
-	9385: <"loc_des_80_01">You need to check the mainframe again for the next artifact.</string>
-	9400: <"loc_des_77_02">This crate needs to be opened with a tool as well.</string>
-	9427: <"loc_des_46_03">Someone's having a bad joke, yeah?</string>
-	9451: <"loc_des_intro_05f">You might not want to know the answer to that.</string>
-	9506: <"loc_des_85_02">They got to the control box and stopped the shutdown. You need to get it going again, friends.</string>
-	9545: <"loc_des_105_04">You have to redo the bypass on those security boxes.</string>
-	9557: <"loc_des_46_02">When did you guys go losing those?</string>
-	9579: <"loc_des_intro_01e">All things considered, I'd rather be going back to Vegas.</string>
-	9612: <"loc_des_intro_03a">So what kind of shit are we going to find in this place?</string>
-	9651: <"loc_des_44_05">Hurry friends, pick up the box.</string>
-	9673: <"loc_des_38_01">Drill through that vault, friends.</string>
-	9709: <"loc_des_91_03">Both boxes need to be secured on the heli before boarding.</string>
-	9710: <"loc_des_04a_03">Find those electrical boxes yet?</string>
-	9756: <"loc_des_73_02">Kerels have pulled the emergency power cutoff lever. Find and reset it, friends!</string>
-	9799: <"loc_des_20_01">There you go, that's the location. Now get out to the control room and pull it out of storage with the crane.</string>
-	9877: <"loc_des_102_06">Look at the formula, then prepare the next component.</string>
-	9979: <"loc_des_66_02">Found any power cells?</string>
-	10017: <"loc_des_72_06">Restart the charge cycle.</string>
-	10022: <"loc_des_22_04">The crane isn't moving. Damn Murky has stopped it. Go and get it running again, yeah?</string>
-	10026: <"loc_des_02_02">Goddamn kerels are helping Murky! Garrett must have gone deep with these bastards after our little visit.</string>
-	10047: <"loc_des_42_01">You got the sequence wrong, friends. Either the symbols or the order.</string>
-	10055: <"loc_des_42_03">Try another combination of symbols and order, yeah?</string>
-	10056: <"loc_des_76_04">Kerels are still going after the weapon.</string>
-	10068: <"loc_des_38_04">You got to drill a big hole in that vault.</string>
-	10106: <"loc_des_108_03">No, something is wrong... now you gotta wait until the reaction dies down and start again, yeah?</string>
-	10111: <"loc_des_63_02">Ach, that door's going to take a bit to crack. Maybe that cannon-dinges will do it. See if you can get it aimed.</string>
-	10122: <"loc_des_64_05">I know there's lots of fun stuff in here friends, but you need to aim that cannon!</string>
-	10165: <"loc_des_04a_04">Come on friends, you have to open those doors.</string>
-	10237: <"loc_des_50_01">Get to the bio-lab.</string>
-	10298: <"loc_des_60_04">What are you waiting for? Pick up the box!</string>
-	10299: <"loc_des_54_02">Good friends, now just add one more ingredient, yeah?</string>
-	10342: <"loc_des_10_05">Find a terminal, guys.</string>
-	10347: <"loc_des_intro_05c">I've always wondered what Murky's Top Men look like.</string>
-	10360: <"loc_des_107_01">That was the last components, now mix it all together.... carefully</string>
-	10559: <"loc_des_31_02">That looks heavy, friends. Use the conveyor in the main hub to move it back to the extraction point.</string>
-	10633: <"loc_des_52_02">Find a good formula yet, friends?</string>
-	10644: <"loc_des_59_02">There we go! Now go grab that artifact and move!</string>
-	10669: <"loc_des_98_06">That cannon's not going to fire without some juice.</string>
-	10744: <"loc_des_50_04">Might be dangerous, but you gotta get to the bio-lab friends.</string>
-	10823: <"loc_des_75_02">Stop those bastards from shutting down the cannon!</string>
+	7323: <"loc_des_04_02">...Veja se você pode abrir as portas por meio de caixas elétricas. Deve ter um par delas por ai.</string>
+	7346: <"loc_des_92_03">Bile está esperando por vocês amigos, entrem no helicóptero, ok?</string>
+	7421: <"loc_des_13_01">Vamo gangue, vocês tem que chegar no laboratório, ache a prateleira certa.</string>
+	7422: <"loc_des_76_06">Eles estão indo pela arma!</string>
+	7429: <"loc_des_32_03">Use a esteira na sala principal para carregar a caixa.</string>
+	7452: <"loc_des_30_02">Vamo lá, peguem ela. Isso não vai abrir um portal pro Inferno. Provavelmente.</string>
+	7673: <"loc_des_72_07">O processo de carregamento precisa ser iniciado novamente.</string>
+	7688: <"loc_des_intro_03d">Ei, eu estava pensando numa coisa. Talvez nós deviamos ter trazido roupas de radiação?</string>
+	7693: <"loc_des_101_02">Essa armas farão o Bile virar um queijo suiço fedorento. Tire-as do ar hackeando elas pelas caixas de controle.</string>
+	7699: <"loc_des_55_02">Merda! Não funcionou. Você deve ter misturado algo errado. Espere um pouco e tente novamente, ok?</string>
+	7797: <"loc_des_50_02">Você precisa ir até o laboratório biológico.</string>
+	7810: <"loc_des_95_01">As armas precisarão de novas baterias.</string>
+	7821: <"loc_des_intro_04c">Talvez eles tenham alienígenas.</string>
+	7884: <"loc_des_17_03">O hacking precisa ser reniciado, certo?</string>
+	7959: <"loc_des_48_01">Volte para o computador principal.</string>
+	7972: <"loc_des_26_02">Ache uma ferramenta, então abra a caixa.</string>
+	8028: <"loc_des_cnc_01">Amigos, tiveram um pouco de diversão no deserto? Lá tem uma base da Murky que precisa ser roubada.</string>
+	8053: <"loc_des_89_01">Acendam o sinalizador quando você estiver pronto para fugir.</string>
+	8056: <"loc_des_79_01">Pegue o artefato, e tenha certeza que os policiais não iram botar as mãos nele.</string>
+	8063: <"loc_des_62_01">Cheguem ao laboratório de armas, amigos.</string>
+	8069: <"loc_des_75_01">A Murky e os policiais estão tentando desligar o canhão.</string>
+	8071: <"loc_des_36_02">Você precisa ir até a sala de arqueologia.</string>
+	8073: <"loc_des_108_02">Porra! Não funcionou. Você deve ter feito algo errado. Espere um pouco e tente denovo, ok?</string>
+	8159: <"loc_des_83_01">Peguem as caixas da esteira, amigos.</string>
+	8175: <"loc_des_68_06">Aquele canhão não irá atirar sem um pouco de suco.</string>
+	8223: <"loc_des_48_02">Volte para o computador central e procure, ok?</string>
+	8268: <"loc_des_104_01">Use o guindaste para trazer a caixa até você.</string>
+	8286: <"loc_des_26_03">Achou algo útil ai perto para abrir a caixa?</string>
+	8293: <"loc_des_105_05">Você precisa que aquele hacking continue.</string>
+	8345: <"loc_des_45_02">Não tenho certeza se são iguais aos outros.</string>
+	8356: <"loc_des_intro_02a">Então, que tipo de porra a gente vai achar nesse lugar?</string>
+	8429: <"loc_des_96_05">O canhão não atirará até que você consiga baterias novas.</string>
+	8451: <"loc_des_88_03">Quando você tiver pronto para escapar, acenda o sinalizador e o Bile ira até você.</string>
+	8504: <"loc_des_23_02">A energia foi cortada! Você precisa fazer ela funcionar novamente, ai você renicia o guindaste.</string>
+	8508: <"loc_des_53_02">Eu acho que isso vai funcionar... não que eu conheça química, mas você já pode acrescentar o próximo ingrediente.</string>
+	8536: <"loc_des_35_01">Vá para a ala de arqueologia. Deve ter um artefato lá em algum lugar.</string>
+	8580: <"loc_des_62_06">Por quê você ainda não esta no laboratório ainda?</string>
+	8588: <"loc_des_74_03">Ligue a alavanca de energia, rápido!</string>
+	8621: <"loc_des_76_05">Impeça qualquer um de chegar ao canhão.</string>
+	8640: <"loc_des_13_03">Você precisar ir para o laboratório de tecnologia e achar a estante certa.</string>
+	8669: <"loc_des_48_03">Você precisa voltar e procurar no computador principal novamente.</string>
+	8676: <"loc_des_35_02">Ok, amigos. Parece que eles estão mantendo uma das caixas na sala de arqueologia. Vá até lá agora, entendeu?</string>
+	8692: <"loc_des_41_03">Os símbolos, amigos. Eles são a resposta.</string>
+	8699: <"loc_des_end_01">Bom trabalho, amigos. Nós conseguimos o que viemos buscar, mas esse último... nós precisamos descobrir nosso próximo passo. Depois que vocês sairam de lá, a comunicação da Murkywater ficou totalmente parada, fora do ar. Nós fodemos bem os Kataru, mas não saberemos como eles revidarão, e Bain gostaria que nós continuassemos, independentemente do que acontecesse com ele. Duke terá as mãos cheias de trabalho para descobrir a próxima peça desse enigma e para que essas caixas servem. Até lá, nós nos deitamos... planejamos... e sobrevivemos.</string>
+	8707: <"loc_des_50_05">Se apresse e vá achar o artefato no laboratório biológico.</string>
+	8718: <"loc_des_74_02">Vocês precisam achar a alavanca de emergência de energia amigos.</string>
+	8734: <"loc_des_66_04">Você tem que ligar essas baterias.</string>
+	8767: <"loc_des_20_02">Certo amigos, essa é a estante certa. Vá até a sala principal e use o guindaste.</string>
+	8770: <"loc_des_47_03">Ainda temos mais uma caixa para pegar. Volte até o computador principal e procure por ela, ok?</string>
+	8790: <"loc_des_108_01">Ah, você errou. Talvez teria sido uma boa idéia ter trazido roupas de radiação. Espere até parar de reagir, dai você tenta denovo.</string>
+	8869: <"loc_des_intro_04b">Se eles tiveram algumas armas de raios aqui, eu trarei umas comigo.</string>
+	8871: <"loc_des_39_02">Você tem que reniciar a drill!</string>
+	8909: <"loc_des_27_02">Vocês tem que desparafusar todos os parafusos, amigos.</string>
+	8917: <"loc_des_44_03">O artefato... isso é o porquê nós estamos aqui.</string>
+	8922: <"loc_des_29_02">Heh, é quase a mesma coisa que o outro. Bom, foi por isso que viemos então pegue ela e continue trabalhando.</string>
+	8960: <"loc_des_40_01">Isso é que nem um doce para o Duke, né? Mas apenas precisamos o que está dentro. Esses símbolos provavelmente são a resposta para abrir isso. Procure por ai por pistas.</string>
+	8963: <"loc_des_30_03">A caixa, amigos.</string>
+	8986: <"loc_des_43_03">Um prêmio a menos para a Murky guardar. Peguem ela e movam-se, amigos.</string>
+	8998: <"loc_des_41_04">Você precisa abrir essa caralha de arca.</string>
+	8999: <"loc_des_60_06">Você precisa pegar essa caixa..</string>
+	9066: <"loc_des_intro_05b">Eles pegaram o Top deles. Mano.</string>
+	9149: <"loc_des_11_01">Ok, parece que um dos artefatos está sendo guardado no armazém de arquivos. Não tem nenhuma chance de você chegar lá andando, mas tem um sistema que traz com um guindaste até salão principal que você pode usar. Você apenas precisa achar a estante certa primeiro.</string>
+	9153: <"loc_des_47_01">Ok, você precisa voltar para o computador principal e procurar pela segunda caixa.</string>
+	9227: <"loc_des_04_03">...Ache as caixas na parede que controlam as portas emergência, sim?</string>
+	9241: <"loc_des_intro_01b">Fortuna e glória, garoto.</string>
+	9270: <"loc_des_01_03">Aqui vamos nós, amigos. Isso é pelo Bain, certo?</string>
+	9296: <"loc_des_32_04">Mova a caixa para a entrada com a esteira do salão principal, ok?</string>
+	9316: <"loc_des_46_01">Isso é só... estranho, eh?</string>
+	9385: <"loc_des_80_01">Você precisar checar o computador principal denovo para achar o próximo artefato.</string>
+	9400: <"loc_des_77_02">Essa caixa precisa ser aberta com uma ferramenta.</string>
+	9427: <"loc_des_46_03">Alguém está sofrendo uma piada de mau gosto, né?</string>
+	9451: <"loc_des_intro_05f">Você provavelmente não quer saber a resposta disso.</string>
+	9506: <"loc_des_85_02">Eles tiveram acesso ao painel de controle e pararam o shutdown. Vocês precisam ir até lá e reniciá-lo, amigos.</string>
+	9545: <"loc_des_105_04">Você precisa refazer o hacking nessas caixas de segurança.</string>
+	9557: <"loc_des_46_02">Quando vocês foram perder isso?</string>
+	9579: <"loc_des_intro_01e">Considerando tudo, prefiro voltar para Vegas.</string>
+	9612: <"loc_des_intro_03a">Que tipo de merda nós vamos achar nesse lugar?</string>
+	9651: <"loc_des_44_05">Rápido amigos, peguem a caixa.</string>
+	9673: <"loc_des_38_01">Furem esse cofre, amigos.</string>
+	9709: <"loc_des_91_03">Ambas as caixas precisam estarem seguras no helicóptero antes de vocês embarcarem.</string>
+	9710: <"loc_des_04a_03">Já acharam as caixas de eletricidade?</string>
+	9756: <"loc_des_73_02">Os policiais derrubaram a energia de emergência. Achem a alavanca e liguem-a, amigos!</string>
+	9799: <"loc_des_20_01">Ai vai você, esse é o local. Agora saia da sala de controle e pegue a caixa com o guindaste.</string>
+	9877: <"loc_des_102_06">Olhe para a fórmula, dai prepare o próximo ingrediente.</string>
+	9979: <"loc_des_66_02">Achou alguma célula de energia?</string>
+	10017: <"loc_des_72_06">Renicie o ciclo de recarga.</string>
+	10022: <"loc_des_22_04">O guindaste não está se movendo. A droga da Murky parou ele. Vá até lá e conserte isso, ok?</string>
+	10026: <"loc_des_02_02">A porra dos policiais estão ajudando a Murky! Garrett deve ter afundado com esses filhos da puta após nossa pequena visita.</string>
+	10047: <"loc_des_42_01">Vocês fizeram a ordem errada, amigos. Ou os símbolos ou a ordem.</string>
+	10055: <"loc_des_42_03">Tente outra combinação de símbolos e ordem, certo?</string>
+	10056: <"loc_des_76_04">Policiais ainda estão indo atrás da arma.</string>
+	10068: <"loc_des_38_04">Você precisa fazer um grande furo nesse cofre.</string>
+	10106: <"loc_des_108_03">Não, algo está errado... agora você tem que esperar a reação acabar e recomeçar, ok?
+</string>
+	10111: <"loc_des_63_02">Ach, essa porta vai ser difícil de quebrar. Talvez um canhão caralhudo consiga fazer isso. Veja se você pode mirá-lo.</string>
+	10122: <"loc_des_64_05">Eu sei que ai tem um monte de coisa engraçada amigos, mas vocês precisam mirar o canhão!</string>
+	10165: <"loc_des_04a_04">Vamos amigos, vocês precisam abrir essas portas.</string>
+	10237: <"loc_des_50_01">Chegue ao laboratório biológico.</string>
+	10298: <"loc_des_60_04">Você está esperando pelo o que? Pegue essa caixa!</string>
+	10299: <"loc_des_54_02">Ótimo amigos, agora só mais um ingrediente, certo?</string>
+	10342: <"loc_des_10_05">Achem o terminal, pessoal..</string>
+	10347: <"loc_des_intro_05c">Eu sempre me perguntei como os homens do Alto Escalão da Murky se parecem.</string>
+	10360: <"loc_des_107_01">Esse foi o último ingrediente, agora misture todos juntos... cuidadosamente.</string>
+	10559: <"loc_des_31_02">Isso parece pesado, amigos. Use a esteira no salão principal para mover isso para o ponto de extração.</string>
+	10633: <"loc_des_52_02">Acharam alguma boa fórmula, amigos?</string>
+	10644: <"loc_des_59_02">Aqui vamos nós! Agora pegue esse artefato e mova-se!</string>
+	10669: <"loc_des_98_06">Esse canhão não irá atirar sem um pouco de suco.</string>
+	10744: <"loc_des_50_04">Talvez seja perigoso, mas vocês tem que ir até o laboratório biológico amigos.</string>
+	10823: <"loc_des_75_02">Impeça esses babacas de desligarem o canhão!</string>
 	10825: <"loc_des_74_04">You must find that lever and pull it.</string>
 	10878: <"loc_des_67_03">Alright, now find the control panel to charge the weapon.</string>
 	10912: <"loc_des_65_02">See if you can find some batteries to power it, then set them up, yeah?</string>
