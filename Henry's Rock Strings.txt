@@ -278,27 +278,27 @@
 	12677: <"loc_des_87_02">Mas que porra.... Eu não consigo acreditar nisso... é isso...? Ach! Bastardos! Saiam dai, amigos!</string>
 	12702: <"loc_des_55_03">Não, essa é a mistura errada... agora você precisar esperar até a reação acabar e começar denovo, tá?</string>
 	12709: <"loc_des_36_01">Chegue ao laboratório de arqueologia.</string>
-	12746: <"loc_des_08_03">The facility changes very often, so what little I saw when I was there can't be relied on.</string>
-	12814: <"loc_des_86_02">Get back to the control box and shut it down.</string>
-	12856: <"loc_des_16_03">Hooked into the terminal yet?</string>
-	12860: <"loc_des_17_04">The routine has been interrupted, get it restarted, yeah?</string>
-	12880: <"loc_des_13_04">Have you found the correct shelf yet, friends? Search a terminal in the tech lab.</string>
-	12899: <"loc_des_15_03">Can't get a response from the terminal? It's that damn good-for-nothing Murkywater OS. See if another terminal works better, yeah?</string>
-	12916: <"loc_des_64_04">Got to get that cannon pointing right.</string>
-	12925: <"loc_des_10_01">Gotta move fast, friends. Murky are going to come down on you hard soon.</string>
-	12927: <"loc_des_34_02">You still have to find the second artifact.</string>
-	12981: <"loc_des_07_01">C'mon friends, no standing around.</string>
-	12989: <"loc_des_06_02">Doors are open, quickly now, get inside and find what we came for.</string>
-	13005: <"loc_des_88_02">When the coast is clear, throw up a flare to let Bile know!</string>
-	13035: <"loc_des_49_03">Why would Murky have the artifact in a bio-lab? No matter, go and find it, yeah? And hope you don't need hazmat suits.</string>
-	13101: <"loc_des_24_01">Get the power back up friends.</string>
-	13148: <"loc_des_39_05">Get the drill going again, friends.</string>
-	13161: <"loc_des_77_03">Another crate to crack open. Get to it, yeah?</string>
-	13167: <"loc_des_74_01">Find the lever friends.</string>
-	13172: <"loc_des_21_04">You need to go and activate the crane, yeah?</string>
-	13181: <"loc_des_77_01">You're going to have to crack open this crate too.</string>
-	13200: <"loc_des_intro_04d">You know, they might actually...</string>
-	13227: <"loc_des_62_04">Quickly now, to the weapons lab!</string>
+	12746: <"loc_des_08_03">A instalação muda com frequência, então o pouco que vi não pode mais ser considerado.</string>
+	12814: <"loc_des_86_02">Volte para aquela caixa de controle e desligue ela.</string>
+	12856: <"loc_des_16_03">Já conectaram o terminal?</string>
+	12860: <"loc_des_17_04">O hacking foi interrompido, renicie ele, certo?</string>
+	12880: <"loc_des_13_04">Vocês já acharam a prateleira correta, amigos? Procure um terminal no laboratório de TI.</string>
+	12899: <"loc_des_15_03">Não consegue ter uma resposta desse terminal? É essa porcaria de sistema operacional da Murkywater. Veja se outro terminal funciona melhor, ok?</string>
+	12916: <"loc_des_64_04">Mire o canhão para a direção certa.</string>
+	12925: <"loc_des_10_01">Precisam se apressar. amigos. A Murky está indo te foder logo logo.</string>
+	12927: <"loc_des_34_02">Você ainda precisa achar o segundo artefato.</string>
+	12981: <"loc_des_07_01">Vamos amigos, não fiquem parados.</string>
+	12989: <"loc_des_06_02">As portas estão abertas, depressa, entre e ache o que viemos pegar.</string>
+	13005: <"loc_des_88_02">Quando a costa estiver vazia, acenda o sinalizador para o Bile vir!</string>
+	13035: <"loc_des_49_03">Por quê a Murky tem um artefato no laboratório biológico? Não importa, vão lá e achem ele, ok? E espero que vocês não precisem se roupas de radiação.</string>
+	13101: <"loc_des_24_01">Liguem a energia de volta amigos.</string>
+	13148: <"loc_des_39_05">Liguem a drill de novo, amigos.</string>
+	13161: <"loc_des_77_03">Outra caixa para abrir. Faça isso, ok?</string>
+	13167: <"loc_des_74_01">Achem a alavanca amigos.</string>
+	13172: <"loc_des_21_04">Você precisa ativar o guindaste, tá?</string>
+	13181: <"loc_des_77_01">Você precisa abrir essa caixa também.</string>
+	13200: <"loc_des_intro_04d">Você sabe, eles podem na verdade...</string>
+	13227: <"loc_des_62_04">Depressa, pro laboratório de armas!</string>
 	13243: <"loc_des_73_03">Ach! They've cut the power at the emergency shutdown point. Find the lever and pull it back to continue charging</string>
 	13246: <"loc_des_14_02">Now, hack into a workstation terminal.</string>
 	13276: <"loc_des_41_01">You gotta find some clues. Keep looking.</string>
