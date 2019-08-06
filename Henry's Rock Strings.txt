@@ -242,42 +242,42 @@
 	11478: <"loc_des_90_01">Proteja as caixas no helicóptero.</string>
 	11528: <"loc_des_69_03">Está carregado e pronto. Apertem o botão de atirar e se protejam, amigos!</string>
 	11564: <"loc_des_64_03">Mova aquele tambor. Depressa.</string>
-	11590: <"loc_des_brf_01">Dear friends, this is going to be a tough one. The Kataru have stepped up their pursuit of Bain's dinges, and we've got to take away their toys, yeah? The warehouse we're going to hit is the most important Murky site there is, and they're working on some very strange projects. They only let me near the place once, and I didn't see much, so we can't know what to expect. I've pulled in every last favor with my remaining contacts at Murky, and have got us a way in, but we're going in blind. Once we do this, there will be no going back. We're essentially proclaiming open war on Murky, but we owe the bliksems for Bain. There's going to be a caliber of security we haven't seen before, so don't get NAAFI once you're in, yeah.</string>
-	11625: <"loc_des_30_04">You better be bringing the box, yeah?</string>
-	11776: <"loc_des_91_01">Have you got both boxes onto the helicopter?</string>
-	11895: <"loc_des_04a_01">Get going friends, no time to waste. Open those doors.</string>
-	11909: <"loc_des_intro_01c">Right. I'll take the first, but you can keep the glory.</string>
-	11984: <"loc_des_12_02">...You'll need to find the box's shelf number by hacking a terminal in the computer lab.</string>
-	11997: <"loc_des_78_03">It's like a never-ending number of screws, yeah? But you got to get them all off.</string>
-	12009: <"loc_des_27_03">Get those screws off that thing.</string>
-	12015: <"loc_des_38_03">Still waiting for that drill.</string>
-	12055: <"loc_des_66_06">Can't shoot that cannon without batteries.</string>
-	12237: <"loc_des_68_02">You need to charge the cannon.</string>
-	12398: <"loc_des_60_03">Come on friends, it's not going to carry itself, yeah?</string>
-	12430: <"loc_des_86_04">Bile can't land until you get those guns down.</string>
-	12432: <"loc_des_105_01">C'mon, restart the hack.</string>
-	12449: <"loc_des_98_04">We need to get the cannon charged.</string>
-	12472: <"loc_des_36_03">Don't believe Duke's superstitions... get to the archaeology lab.</string>
-	12475: <"loc_des_13_02">Find that shelf yet, friends? Get to the computer lab.</string>
-	12484: <"loc_des_51_01">You gotta get through that door. I think the artifact is on the other side. What about cooking up a fun cocktail to burn through it? Maybe there's a recipe for something suitably volatile around there? Heh... what could go wrong, eh?</string>
-	12485: <"loc_des_63_03">Whoa, looks like some kind of energy weapon. We can use it to blast the door. Just turn it to point the right way, friends.</string>
-	12510: <"loc_des_60_07">I'm going for a drink. Let me know when you've got the box, yeah?</string>
-	12534: <"loc_des_102_03">Hurry with those chems, you need to get through that door.</string>
-	12544: <"loc_des_100_01">It's time to head back to the entrance so that I can get you out of there.</string>
-	12552: <"loc_des_76_01">Keep the damn Murkies away from the weapon.</string>
-	12573: <"loc_des_54_01">Hah... thought for sure you were going to blow up the room with that one, but no worries. Just one more compound to add.</string>
-	12587: <"loc_des_96_06">Can't shoot that cannon without more juice, replace the batteries.</string>
-	12597: <"loc_des_101_03">The chopper can't land until you take out those turrets. Find the control boxes and disconnect them.</string>
-	12599: <"loc_des_37_03">That vault needs to be cracked open for us to get the artifact. Stick a drill on it, friends.</string>
-	12608: <"loc_des_25_01">Right, now you got to get it open. See if you can find a tool around there somewhere to help do the job, yeah?</string>
-	12611: <"loc_des_intro_04e">If anyone finds out what really happened to Elvis, let me know!</string>
-	12615: <"loc_des_58_01">Come one friends, throw the cocktail on the door.</string>
-	12635: <"loc_des_74_05">Pull that lever!</string>
-	12646: <"loc_des_44_02">Don't forget the box, yeah.</string>
-	12670: <"loc_des_100_03">You need to get back to the entrance so that I can pull you out of there.</string>
-	12677: <"loc_des_87_02">What in the gods' names is.... I can't believe it... is that...? Ach! Bekakin' bastards! Get out of there, friends!</string>
-	12702: <"loc_des_55_03">No, that's the wrong blend... now you gotta wait until the reaction dies down and start again, yeah?</string>
-	12709: <"loc_des_36_01">Get to the archaeology room.</string>
+	11590: <"loc_des_brf_01">Queridos amigos, isso vai ser difícil. A Kataru intensificou a sua perseguição pelas coisas do Bain, e nós temos que levar embora os brinquedos dele, certo? O armazém que iremos invadir é o mais importante da Murky, e eles tem trabalhado em alguns projetos bem estranhos. Eles só me deixaram perto desse lugar uma vez, e eu não vi muita coisa, então não podemos saber o que esperar. Eu usei todos os meus últimos favores de contatos na Murky, e nos deixaram entrar, mas estamos indo cegos. Uma vez lá, não haverá como voltar. Nós estamos declarando uma guerra aberta contra a Murky, mas nós devemos isso ao Bain. Terá um nível de segurança que nunca vimos antes, então, não banca o fortão quando chegar lá, tá?</string>
+	11625: <"loc_des_30_04">É melhor você estar trazendo a caixa, né?</string>
+	11776: <"loc_des_91_01">Você botou as duas caixas dentro do helicóptero?</string>
+	11895: <"loc_des_04a_01">Continuem indo amigos, sem tempo para perder. Abram aquelas portas.</string>
+	11909: <"loc_des_intro_01c">Certo. Eu vou pegar o primeiro, mas você pode manter a glória.</string>
+	11984: <"loc_des_12_02">...Você pode achar o número da pratileira que está a caixa hackeando o terminal no laboratório de computadores.</string>
+	11997: <"loc_des_78_03">Parece que tem um número infinito de parafusos, né? Mas você precisa tirar todos eles.</string>
+	12009: <"loc_des_27_03">Tirem os parafusos daquela coisa.</string>
+	12015: <"loc_des_38_03">Ainda estou esperando pela drill.</string>
+	12055: <"loc_des_66_06">O canhão não atira sem baterias.</string>
+	12237: <"loc_des_68_02">Você precisa carregar o canhão.</string>
+	12398: <"loc_des_60_03">Vamos lá amigos, isso não vai se carregar sozinho, né?</string>
+	12430: <"loc_des_86_04">O Bile não pode pousar até ter aquelas armas funcionando.</string>
+	12432: <"loc_des_105_01">Vamo lá, reniciem o hack.</string>
+	12449: <"loc_des_98_04">Nós precisamos do canhão carregado.</string>
+	12472: <"loc_des_36_03">Não acredite nas supertições do Duke... vá para o laboratório de arqueologia.</string>
+	12475: <"loc_des_13_02">Já acharam a prateleira certa, amigos? Vão para o laboratório de computadores.</string>
+	12484: <"loc_des_51_01">Você precisa abrir aquela porta. Eu acho que o artefato está do outro lado. O que acha de cozinhar um coquetel divertido e queimar para arrombar a porta? Talvez haja um recipiente adequado para substâncias voláteis? Heh... o que pode dar errado, né?</string>
+	12485: <"loc_des_63_03">Whoa, parece algo como uma arma de energia. Nós podemos usar ela para explodir a porta. Apenas mirem para o ponto certo, amigos.</string>
+	12510: <"loc_des_60_07">Eu estou indo beber algo. Me avisem quando vocês pegaram a caixa, tá?</string>
+	12534: <"loc_des_102_03">Depressa com a mistura, você precisa botar ela na porta.</string>
+	12544: <"loc_des_100_01">É hora de voltar para a entrada para eu poder tirar você dai.</string>
+	12552: <"loc_des_76_01">Mantenham a porra desses Murkies longe da arma.</string>
+	12573: <"loc_des_54_01">Hah... tive certeza que você ia explodir o laboratório com aquilo, mas não se preocupe. Apenas mais um composto para adicionar.</string>
+	12587: <"loc_des_96_06">O canhão não pode atirar sem mais energia, troque as baterias.</string>
+	12597: <"loc_des_101_03">O piloto não pode pousar até que você cuide das torretas. Ache as caixas de controle e desconecte elas.</string>
+	12599: <"loc_des_37_03">Esse cofre precisa ser arrombado para nós conseguirmos o artefato. Ponham uma drill nela, amigos.</string>
+	12608: <"loc_des_25_01">Certo, agora você precisa abrir ela. Veja se você consigua achar alguma coisa para nós ajudar, tá?</string>
+	12611: <"loc_des_intro_04e">Se alguém achar o que realmente aconteceu com o Elvis, me avise!</string>
+	12615: <"loc_des_58_01">Vamos lá amigos, jogue a mistura na porta.</string>
+	12635: <"loc_des_74_05">Puxe a alavanca!</string>
+	12646: <"loc_des_44_02">Não esqueça a caixa, né?</string>
+	12670: <"loc_des_100_03">Vocês precisam ir de volta para a entrada para eu poder tirar vocês dai.</string>
+	12677: <"loc_des_87_02">Mas que porra.... Eu não consigo acreditar nisso... é isso...? Ach! Bastardos! Saiam dai, amigos!</string>
+	12702: <"loc_des_55_03">Não, essa é a mistura errada... agora você precisar esperar até a reação acabar e começar denovo, tá?</string>
+	12709: <"loc_des_36_01">Chegue ao laboratório de arqueologia.</string>
 	12746: <"loc_des_08_03">The facility changes very often, so what little I saw when I was there can't be relied on.</string>
 	12814: <"loc_des_86_02">Get back to the control box and shut it down.</string>
 	12856: <"loc_des_16_03">Hooked into the terminal yet?</string>
