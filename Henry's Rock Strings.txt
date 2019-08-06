@@ -223,25 +223,25 @@
 	10669: <"loc_des_98_06">Esse canhão não irá atirar sem um pouco de suco.</string>
 	10744: <"loc_des_50_04">Talvez seja perigoso, mas vocês tem que ir até o laboratório biológico amigos.</string>
 	10823: <"loc_des_75_02">Impeça esses babacas de desligarem o canhão!</string>
-	10825: <"loc_des_74_04">You must find that lever and pull it.</string>
-	10878: <"loc_des_67_03">Alright, now find the control panel to charge the weapon.</string>
-	10912: <"loc_des_65_02">See if you can find some batteries to power it, then set them up, yeah?</string>
-	10930: <"loc_des_21_02">Use the crane to get the artifact, friends.</string>
-	10960: <"loc_des_99_02">The gun is ready to go, mash the fire button and enjoy the show.</string>
-	10974: <"loc_des_94_01">Ok, now you need to aim the weapon at the second lock.</string>
-	11123: <"loc_des_45_01">I wonder why those are on the side.</string>
-	11242: <"loc_des_23_03">Damn kerels have cut the power. Get it back up and reactivate the crane.</string>
-	11246: <"loc_des_67_01">Time to charge it. There should be a control panel around there, yeah?</string>
-	11282: <"loc_des_44_01">Grab the box, friends.</string>
-	11292: <"loc_des_89_03">Ready to go? Light a flare!</string>
-	11332: <"loc_des_21_01">Get out there and use the crane, friends.</string>
-	11339: <"loc_des_05_01">Blerrie, you've got to restart the hack.</string>
-	11373: <"loc_des_76_07">They won't let that gun alone if you're not there, friends.</string>
-	11410: <"loc_des_58_04">You need to let the chem work on the door.</string>
-	11471: <"loc_des_27_01">Take off all the screws, yeah?</string>
-	11478: <"loc_des_90_01">Secure the boxes on the helicopter.</string>
-	11528: <"loc_des_69_03">It's charged and ready. Press the fire button and stand back, friends!</string>
-	11564: <"loc_des_64_03">Move that barrel. Quickly now.</string>
+	10825: <"loc_des_74_04">Você precisa achar a alavanca e puxá-la.</string>
+	10878: <"loc_des_67_03">Certo, agora ache o painel de controle e carregue a arma.</string>
+	10912: <"loc_des_65_02">Veja se você consegue achar algumas baterias, então prepare elas, certo?</string>
+	10930: <"loc_des_21_02">Use o guindaste para pegar o artefato, amigos.</string>
+	10960: <"loc_des_99_02">A arma está pronta, aperte o botão e curta o show.</string>
+	10974: <"loc_des_94_01">Ok, agora você precisa mirar a arma na segunda fechadura.</string>
+	11123: <"loc_des_45_01">Eu me pergunto o porquê isso esta no lado.</string>
+	11242: <"loc_des_23_03">A porra dos policiais cortaram a energia. Ligue ela e reative o guindaste</string>
+	11246: <"loc_des_67_01">Hora para carregar ela. Deve ter um painel de controle por ai, né?</string>
+	11282: <"loc_des_44_01">Peguem a caixa, amigos.</string>
+	11292: <"loc_des_89_03">Prontos para irem? Acendam o sinalizador!</string>
+	11332: <"loc_des_21_01">Saiam dai e usem o guindaste, amigos.</string>
+	11339: <"loc_des_05_01">Merda, você terá que reniciar o hack.</string>
+	11373: <"loc_des_76_07">Eles não deixaram aquela arma sozinha se vocês não tiveram lá, amigos.</string>
+	11410: <"loc_des_58_04">Você precisa deixar a mistura trabalhar na porta.</string>
+	11471: <"loc_des_27_01">Tire todos os parafusos, ok?</string>
+	11478: <"loc_des_90_01">Proteja as caixas no helicóptero.</string>
+	11528: <"loc_des_69_03">Está carregado e pronto. Apertem o botão de atirar e se protejam, amigos!</string>
+	11564: <"loc_des_64_03">Mova aquele tambor. Depressa.</string>
 	11590: <"loc_des_brf_01">Dear friends, this is going to be a tough one. The Kataru have stepped up their pursuit of Bain's dinges, and we've got to take away their toys, yeah? The warehouse we're going to hit is the most important Murky site there is, and they're working on some very strange projects. They only let me near the place once, and I didn't see much, so we can't know what to expect. I've pulled in every last favor with my remaining contacts at Murky, and have got us a way in, but we're going in blind. Once we do this, there will be no going back. We're essentially proclaiming open war on Murky, but we owe the bliksems for Bain. There's going to be a caliber of security we haven't seen before, so don't get NAAFI once you're in, yeah.</string>
 	11625: <"loc_des_30_04">You better be bringing the box, yeah?</string>
 	11776: <"loc_des_91_01">Have you got both boxes onto the helicopter?</string>
