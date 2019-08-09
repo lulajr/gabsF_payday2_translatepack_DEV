@@ -299,38 +299,38 @@
 	13181: <"loc_des_77_01">Você precisa abrir essa caixa também.</string>
 	13200: <"loc_des_intro_04d">Você sabe, eles podem na verdade...</string>
 	13227: <"loc_des_62_04">Depressa, pro laboratório de armas!</string>
-	13243: <"loc_des_73_03">Ach! They've cut the power at the emergency shutdown point. Find the lever and pull it back to continue charging</string>
-	13246: <"loc_des_14_02">Now, hack into a workstation terminal.</string>
-	13276: <"loc_des_41_01">You gotta find some clues. Keep looking.</string>
-	13313: <"loc_des_51_03">Can't see it anywhere, so the box is probably behind that door and you got to get through it. Maybe you can cook up something useful and nasty to eat through it, yeah? Looks like there are some good chems lying around.</string>
-	13325: <"loc_des_68_04">Have you found the control panel yet?</string>
-	13390: <"loc_des_75_03">Kerels and Murky are attempting to stop the weapon.</string>
-	13397: <"loc_des_37_02">I think the box is behind that vault door, so get a drill on it, yeah?</string>
-	13446: <"loc_des_19_03">Time's being wasted, restart the hack.</string>
-	13459: <"loc_des_101_01">You need to shut down those guns for Bile to get you out. Find the control boxes and shut them down.</string>
-	13460: <"loc_des_05_04">Restart the bypass on those security boxes.</string>
-	13479: <"loc_des_106_02">Prep the next part, and hope nothing bad happens.</string>
-	13590: <"loc_des_04a_02">Open those doors, friends.</string>
-	13591: <"loc_des_05_05">Damn chops have killed the bypass, get it going again.</string>
-	13592: <"loc_des_08_01">It's been ages since I was there last. They've changed a lot of things.</string>
-	13593: <"loc_des_09_03">...You need to hack a terminal in the mainframe and figure out where to start looking, yeah? </string>
-	13594: <"loc_des_103_05">Press the symbols in the correct order.</string>
-	13595: <"loc_des_14_01">Good, now get to a workstation and override it.</string>
-	13596: <"loc_des_24_02">You need to restart the power, friends.</string>
-	13597: <"loc_des_28_05">Counter-clockwise friends. That's how you remove a screw. Most of the time.</string>
-	13598: <"loc_des_42_02">That wasn't right. You need to try a different combination, yeah?</string>
-	13599: <"loc_des_52_01">C'mon friends, you need to get mixing.</string>
-	13600: <"loc_des_57_01">OK, looks like a proper cocktail, now get that stuff on the door and let it work, yeah?</string>
-	13601: <"loc_des_64_02">You need to point the cannon right, yeah?</string>
-	13602: <"loc_des_65_03">There should be some power cells around there for you to connect to it.</string>
-	13603: <"loc_des_68_03">The cannon still isn't charged.</string>
-	13604: <"loc_des_74_06">Found that lever yet? Should be pretty big.</string>
-	13605: <"loc_des_76_02">You need to guard the cannon.</string>
-	13606: <"loc_des_80_03">The mainframe will hold the location of the second box too, so get back in there, friends.</string>
-	13607: <"loc_des_91_04">Load the boxes, friends.</string>
-	13608: <"loc_des_94_03">You need to shoot he weapon again, this time aimed at the second lock.</string>
-	13609: <"loc_des_95_02">You have to replace the batteries with fresh ones.</string>
-	13610: <"loc_des_95_03">The weapon will not fire until you replace the empty power cells.</string>
-	13611: <"loc_des_96_01">Get those batteries changed.</string>
-	13612: <"loc_des_98_05">Hurry now, get that dinges some power.</string>
-	13613: <"loc_des_intro_02c">I guess this will be a nice change of pace from D.C. and politics, right?</string>
+	13243: <"loc_des_73_03">Ach! Eles cortaram a energia no ponto crítico do shutdown. Ache a alavanca e puxe ela pra continuar carregando.</string>
+	13246: <"loc_des_14_02">Agora, invada um terminal de trabalho.</string>
+	13276: <"loc_des_41_01">Você precisa achar algumas pistas. Continue procurando.</string>
+	13313: <"loc_des_51_03">Não pode ver ela em nenhum lugar, então provavelmente a caixa esta atrás daquela porta e você precisa entrar lá. Talvez você posso preparar algo útil e um pouco desagradável para comer, né? Parece que há algumas coisas por ai.</string>
+	13325: <"loc_des_68_04">Já achou o painel de controle?</string>
+	13390: <"loc_des_75_03">Policiais e a Murky tão tentando parar a arma.</string>
+	13397: <"loc_des_37_02">Eu acho que a caixa esta atrás daquela porta do cofre, então abra ela, ok?</string>
+	13446: <"loc_des_19_03">Tempo está sendo perdido, renicie o hack.</string>
+	13459: <"loc_des_101_01">Você precisa tirar do ar aquelas armas para o Bile poder pousar. Ache as caixas de controle e ai desligue elas.</string>
+	13460: <"loc_des_05_04">Renicie a invasão nas caixas de segurança.</string>
+	13479: <"loc_des_106_02">Prepare o próximo ingrediente, e espere que nada de ruim vai acontecer.</string>
+	13590: <"loc_des_04a_02">Abram aquelas portas, amigos..</string>
+	13591: <"loc_des_05_05">Merda, os policiais cortaram a invasão, liguem ela de novo.</string>
+	13592: <"loc_des_08_01">Faz muito tempo que vim aqui pela ultima vez. Eles mudaram um monte de coisas.</string>
+	13593: <"loc_des_09_03">...Você precisa hackear o terminal no computador principal e saber por onde começar a procurar, ok?</string>
+	13594: <"loc_des_103_05">Aperte os símbolos na ordem correta.</string>
+	13595: <"loc_des_14_01">Ótimo, agora chegue até estação de trabalho e invada ela.</string>
+	13596: <"loc_des_24_02">Vocês precisam reniciar a energia, amigos.</string>
+	13597: <"loc_des_28_05">Sentido anti-horário amigos. É assim que se tira um parafuso. Na maioria das vezes.</string>
+	13598: <"loc_des_42_02">Isso não deu certo. Você precisar tentar uma combinação diferente, ok?</string>
+	13599: <"loc_des_52_01">Vamos lá aimgos, vocês precisam fazer a mistura.</string>
+	13600: <"loc_des_57_01">Ok, parece que é o coquetel certo, agora bote ele na porta e deixe reagir, tá?</string>
+	13601: <"loc_des_64_02">Você precisar mirar o canhão, ok?</string>
+	13602: <"loc_des_65_03">Deve haver mais baterias por ai para você usar.</string>
+	13603: <"loc_des_68_03">O canhão ainda não está carregado.</string>
+	13604: <"loc_des_74_06">Já achou aquela alavanca? Deve ser bem grande.</string>
+	13605: <"loc_des_76_02">Você precisa esperar o canhão.</string>
+	13606: <"loc_des_80_03">O computador principal guarda a localização da segunda caixa também, então chegue lá, amigos.</string>
+	13607: <"loc_des_91_04">Carreguem as caixas, amigos.</string>
+	13608: <"loc_des_94_03">Você precisa atirar com a arma de novo, dessa vez mirada na segunda fechadura.</string>
+	13609: <"loc_des_95_02">Você precisar repor as baterias com umas carregadas.</string>
+	13610: <"loc_des_95_03">Aquela arma não vai atirar até que você ponha novas baterias.</string>
+	13611: <"loc_des_96_01">Troque as baterias.</string>
+	13612: <"loc_des_98_05">Depressa, bote energia naquela porra..</string>
+	13613: <"loc_des_intro_02c">Eu acho que isto será uma boa mudança na política e no ritmo de D.C., né?</string>
