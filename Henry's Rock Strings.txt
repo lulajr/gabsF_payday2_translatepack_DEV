@@ -10,7 +10,7 @@
 	3822: <"loc_des_62_02">Se apresse e chegue ao laboratório de armas.</string>
 	3893: <"loc_des_35_03">Então, eles estão estudando uma das caixas no laboratório de arqueologia. Vá até lá e de uma olhada. E cuidado com as múmias soltas.</string>
 	3904: <"loc_des_96_04">Você precisa trocar essas baterias.</string>
-	3969: <"loc_des_79_02">Vá em frente e pegue a caixa, amigos. Mantenha a polícia longe dela, certo?</string>
+	3969: <"loc_des_79_02">Vão em frente e peguem a caixa, amigos. Mantenha a polícia longe dela, certo?</string>
 	3994: <"loc_des_53_01">Ok, isso parece... certo? Pelo menos não explodiu tudo. Hora de misturar o próximo ingrediente.</string>
 	4003: <"loc_des_63_01">Ok, nós precisamos passar por aquela porta. Talvez possamos usar essa grande caralha no meio da sala pra explodir. Veja se pode apontar, certo?</string>
 	4015: <"loc_des_15_01">Algo está errado com o computador. Não está conectando. Essa merda de MurkyDOS. Tente outro.</string>
@@ -23,37 +23,37 @@
 	4237: <"loc_des_87_01">Quem é esse kakspul feio?... Mas que merda... é essa...!? Ach! Sem tempo para lidar com isso agora! Vaza dai! Rápido!</string>
 	4265: <"loc_des_41_05">Você já conseguiu abrir a arca?</string>
 	4269: <"loc_des_31_01">Parece que essa caixa é pesada né? Tem uma esteira na sala principal para a doca de carregamento, por dentro da montanha. Jogue a caixa lá e deixe a esteira carregar para você.</string>
-	4283: <"loc_des_98_01">Carrega a arma, amigos.</string>
+	4283: <"loc_des_98_01">Carreguem a arma, amigos.</string>
 	4306: <"loc_des_72_05">O canhão ainda não está carregando. Inicie isso!</string>
 	4382: <"loc_des_13_05">Chegue ao laboratório de computadores, ache a estante certa, dai use o guindaste.</string>
 	4415: <"loc_des_69_01">O canhão está pronto, aperte aquele botão brilhante e vamos ver o que isso pode fazer!</string>
 	4445: <"loc_des_64_06">Vamo galera, vire aquela porra.</string>
 	4510: <"loc_des_102_01">Você precisa preparar o próximo ingrediente.</string>
-	4514: <"loc_des_60_01">Rápido, pegue a caixa, amigos!</string>
+	4514: <"loc_des_60_01">Rápido, peguem a caixa, amigos!</string>
 	4539: <"loc_des_62_03">Já acharam o laboratório de armas?</string>
 	4540: <"loc_des_91_02">Carreguem os artefatos, amigos.</string>
-	4541: <"loc_des_30_05">Pegue a caixa e vão, amigos.</string>
+	4541: <"loc_des_30_05">Peguem a caixa e vão, amigos.</string>
 	4576: <"loc_des_38_02">Prepare uma drill, certo?</string>
 	4658: <"loc_des_72_01">Reinicie o ciclo de carregamento.</string>
 	4680: <"loc_des_33_01">Você precisa voltar e chegar no painel onde está o segundo artefato. Faça isso rápido, tá bom?</string>
 	4703: <"loc_des_62_05">Vá para o laboratório de armas.</string>
 	4713: <"loc_des_08_02">Todos os projetos que rolam aqui são temporários, então um monte de coisa mudou.</string>
-	4816: <"loc_des_58_03">Não espere muito amigos, apenas bote a mistura na porta, certo?</string>
+	4816: <"loc_des_58_03">Não esperem muito amigos, apenas bote a mistura na porta, certo?</string>
 	4887: <"loc_des_18_01">A droga dos policiais cortaram a energia dos terminais. Ache a caixa de energia e ligue-a de volta.</string>
 	4910: <"loc_des_54_03">Ainda parece estável, amigos. Hora de adicionar o último ingrediente.</string>
 	4938: <"loc_des_15_02">O terminal não está conectando. A Murky sempre teve pessoas de TI lixo, uma exceção para mim, claro. Ache outro terminal.</string>
-	4949: <"loc_des_79_03">Pegue a caixa amigos, e não deixe ninguém com patas gordurosas tocar nela, ok?</string>
+	4949: <"loc_des_79_03">Peguem a caixa amigos, e não deixe ninguém com patas gordurosas tocar nela, ok?</string>
 	4950: <"loc_des_39_04">Reinicie a drill, ok?</string>
 	5002: <"loc_des_93_02">Não deixem o helicóptero esperando, certo?</string>
-	5089: <"loc_des_66_01">Ache essas baterias, amigos.</string>
+	5089: <"loc_des_66_01">Achem essas baterias, amigos.</string>
 	5114: <"loc_des_84_02">Merda! Essa armas irão foder o Bile se ele tentar pousar agora. Você precisa hackea-las pelas caixas de controle.</string>
 	5135: <"loc_des_39_01">Os policiais pararam a drill. Você precisa reiniciá-la.</string>
 	5244: <"loc_des_94_02">Tem mais uma fechadura na porta, você precisar mirar e atirar denovo.</string>
 	5288: <"loc_des_96_02">Achou alguma fonte de energia?</string>
 	5313: <"loc_des_71_01">A merda do policiais pararam o carregamento. Consiga religá-lo.</string>
-	5355: <"loc_des_60_02">O artefato, amigos. Pegue ele e vaze!</string>
+	5355: <"loc_des_60_02">O artefato, amigos. Peguem ele e vaze!</string>
 	5393: <"loc_des_04_01">...Você precisa achar as caixas de segurança que controlam as portas e hackea-las.</string>
-	5442: <"loc_des_92_01">Ok, amigos. Entre no heli!</string>
+	5442: <"loc_des_92_01">Ok, amigos. Entrem no heli!</string>
 	5448: <"loc_des_96_03">Você precisa de novas células de energia.</string>
 	5460: <"loc_des_01_01">Silêncio agora, amigos.</string>
 	5469: <"loc_des_41_02">Já consegueriam algo nos símbolos?</string>
@@ -99,7 +99,7 @@
 	6732: <"loc_des_52_03">Você precisa passar por aquela porta, amigos.</string>
 	6791: <"loc_des_72_03">Reative o painel de carregamento.</string>
 	6819: <"loc_des_59_01">Bom, agora pegue a caixa e saia dai antes que qualquer merda que estiver no tanque acorde.</string>
-	6830: <"loc_des_29_03">Bom trabalho, amigos. Uma caixa secreta a menos para a Murky. Pegue ela e vá para a próxima, ok?</string>
+	6830: <"loc_des_29_03">Bom trabalho, amigos. Uma caixa secreta a menos para a Murky. Peguem ela e vão para a próxima, ok?</string>
 	6840: <"loc_des_82_01">...E não esqueça de tirar as caixas da esteira!</string>
 	6895: <"loc_des_12_01">...Achei o laboratório de computador, hackeie um terminal e procure pela localização da caixa.</string>
 	6914: <"loc_des_65_01">Bom, agora para poder ligá-lo. Essa coisa funciona a bateria, então de uma volta e veja se você consegue encontrar elas.</string>
@@ -161,12 +161,12 @@
 	8707: <"loc_des_50_05">Se apresse e vá achar o artefato no laboratório biológico.</string>
 	8718: <"loc_des_74_02">Vocês precisam achar a alavanca de emergência de energia amigos.</string>
 	8734: <"loc_des_66_04">Você tem que ligar essas baterias.</string>
-	8767: <"loc_des_20_02">Certo amigos, essa é a estante certa. Vá até a sala principal e use o guindaste.</string>
+	8767: <"loc_des_20_02">Certo amigos, essa é a estante certa. Vão até a sala principal e usem o guindaste.</string>
 	8770: <"loc_des_47_03">Ainda temos mais uma caixa para pegar. Volte até o computador principal e procure por ela, ok?</string>
 	8790: <"loc_des_108_01">Ah, você errou. Talvez teria sido uma boa idéia ter trazido roupas de radiação. Espere até parar de reagir, dai você tenta denovo.</string>
 	8869: <"loc_des_intro_04b">Se eles tiveram algumas armas de raios aqui, eu trarei umas comigo.</string>
 	8871: <"loc_des_39_02">Você tem que reniciar a drill!</string>
-	8909: <"loc_des_27_02">Vocês tem que desparafusar todos os parafusos, amigos.</string>
+	8909: <"loc_des_27_02">Vocês tem que tirar todos os parafusos, amigos.</string>
 	8917: <"loc_des_44_03">O artefato... isso é o porquê nós estamos aqui.</string>
 	8922: <"loc_des_29_02">Heh, é quase a mesma coisa que o outro. Bom, foi por isso que viemos então pegue ela e continue trabalhando.</string>
 	8960: <"loc_des_40_01">Isso é que nem um doce para o Duke, né? Mas apenas precisamos o que está dentro. Esses símbolos provavelmente são a resposta para abrir isso. Procure por ai por pistas.</string>
@@ -202,7 +202,7 @@
 	10017: <"loc_des_72_06">Renicie o ciclo de recarga.</string>
 	10022: <"loc_des_22_04">O guindaste não está se movendo. A droga da Murky parou ele. Vá até lá e conserte isso, ok?</string>
 	10026: <"loc_des_02_02">A porra dos policiais estão ajudando a Murky! Garrett deve ter afundado com esses filhos da puta após nossa pequena visita.</string>
-	10047: <"loc_des_42_01">Vocês fizeram a ordem errada, amigos. Ou os símbolos ou a ordem.</string>
+	10047: <"loc_des_42_01">Vocês fizeram algo errado, amigos. Ou os símbolos ou a ordem.</string>
 	10055: <"loc_des_42_03">Tente outra combinação de símbolos e ordem, certo?</string>
 	10056: <"loc_des_76_04">Policiais ainda estão indo atrás da arma.</string>
 	10068: <"loc_des_38_04">Você precisa fazer um grande furo nesse cofre.</string>
@@ -217,7 +217,7 @@
 	10342: <"loc_des_10_05">Achem o terminal, pessoal..</string>
 	10347: <"loc_des_intro_05c">Eu sempre me perguntei como os homens do Alto Escalão da Murky se parecem.</string>
 	10360: <"loc_des_107_01">Esse foi o último ingrediente, agora misture todos juntos... cuidadosamente.</string>
-	10559: <"loc_des_31_02">Isso parece pesado, amigos. Use a esteira no salão principal para mover isso para o ponto de extração.</string>
+	10559: <"loc_des_31_02">Isso parece pesado, amigos. Usem a esteira no salão principal para mover isso para o ponto de extração.</string>
 	10633: <"loc_des_52_02">Acharam alguma boa fórmula, amigos?</string>
 	10644: <"loc_des_59_02">Aqui vamos nós! Agora pegue esse artefato e mova-se!</string>
 	10669: <"loc_des_98_06">Esse canhão não irá atirar sem um pouco de suco.</string>
@@ -226,7 +226,7 @@
 	10825: <"loc_des_74_04">Você precisa achar a alavanca e puxá-la.</string>
 	10878: <"loc_des_67_03">Certo, agora ache o painel de controle e carregue a arma.</string>
 	10912: <"loc_des_65_02">Veja se você consegue achar algumas baterias, então prepare elas, certo?</string>
-	10930: <"loc_des_21_02">Use o guindaste para pegar o artefato, amigos.</string>
+	10930: <"loc_des_21_02">Usem o guindaste para pegar o artefato, amigos.</string>
 	10960: <"loc_des_99_02">A arma está pronta, aperte o botão e curta o show.</string>
 	10974: <"loc_des_94_01">Ok, agora você precisa mirar a arma na segunda fechadura.</string>
 	11123: <"loc_des_45_01">Eu me pergunto o porquê isso esta no lado.</string>
@@ -271,7 +271,7 @@
 	12599: <"loc_des_37_03">Esse cofre precisa ser arrombado para nós conseguirmos o artefato. Ponham uma drill nela, amigos.</string>
 	12608: <"loc_des_25_01">Certo, agora você precisa abrir ela. Veja se você consigua achar alguma coisa para nós ajudar, tá?</string>
 	12611: <"loc_des_intro_04e">Se alguém achar o que realmente aconteceu com o Elvis, me avise!</string>
-	12615: <"loc_des_58_01">Vamos lá amigos, jogue a mistura na porta.</string>
+	12615: <"loc_des_58_01">Vamos lá amigos, joguem a mistura na porta.</string>
 	12635: <"loc_des_74_05">Puxe a alavanca!</string>
 	12646: <"loc_des_44_02">Não esqueça a caixa, né?</string>
 	12670: <"loc_des_100_03">Vocês precisam ir de volta para a entrada para eu poder tirar vocês dai.</string>
@@ -326,7 +326,7 @@
 	13603: <"loc_des_68_03">O canhão ainda não está carregado.</string>
 	13604: <"loc_des_74_06">Já achou aquela alavanca? Deve ser bem grande.</string>
 	13605: <"loc_des_76_02">Você precisa esperar o canhão.</string>
-	13606: <"loc_des_80_03">O computador principal guarda a localização da segunda caixa também, então chegue lá, amigos.</string>
+	13606: <"loc_des_80_03">O computador principal guarda a localização da segunda caixa também, então cheguem lá, amigos.</string>
 	13607: <"loc_des_91_04">Carreguem as caixas, amigos.</string>
 	13608: <"loc_des_94_03">Você precisa atirar com a arma de novo, dessa vez mirada na segunda fechadura.</string>
 	13609: <"loc_des_95_02">Você precisar repor as baterias com umas carregadas.</string>
